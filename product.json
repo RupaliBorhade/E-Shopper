@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "name": "Kids",
+      "id": 3
+    },
+    {
+      "name": "Mens Wear",
+      "id": 4
+    },
+    {
+      "name": "Womens Wear",
+      "id": 5
+    }
+  ],
+  "brand": [
+    {
+      "id": 1,
+      "name": "Nike"
+    },
+    {
+      "id": 2,
+      "name": "Puma"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Product1",
+      "price": 2000,
+      "discount": 10,
+      "imgpath": "product1.jpg",
+      "catid": 3,
+      "brandid": 1
+    },
+    {
+      "id": 2,
+      "name": "Product2",
+      "price": 2500,
+      "discount": 20,
+      "imgpath": "product2.jpg",
+      "catid": 4,
+      "brandid": 2
+    },
+    {
+      "id": 3,
+      "name": "Product3",
+      "price": 2800,
+      "discount": 30,
+      "imgpath": "product3.jpg",
+      "catid": 5,
+      "brandid": 1
+    }
+  ]
+}
